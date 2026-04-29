@@ -1,0 +1,8 @@
+1|Toyota Camry|Car|50.0|Premium|4|true
+2|Honda Civic|Car|45.0|Basic|4|true
+3|Harley Davidson|Motorcycle|40.0|Premium|883|false
+4|Yamaha R6|Motorcycle|55.0|Comprehensive|600|false
+5|Ford F-150|Truck|80.0|Comprehensive|2.5|true
+6|Tesla Model 3|Car|70.0|Premium|4|true
+7|BMW S1000RR|Motorcycle|90.0|Premium|999|false
+8|Volvo FH16|Truck|120.0|Comprehensive|5.0|true
